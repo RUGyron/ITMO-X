@@ -550,7 +550,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = M3WBMTG67K;
+				DEVELOPMENT_TEAM = N8VX7T6P4D;
 				INFOPLIST_FILE = "ITMO X widget/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -558,7 +558,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.voronov.ITMO-X.ITMO-X-widget";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.voronov.ITMO-X1.ITMO-X-widget";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -570,7 +570,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = M3WBMTG67K;
+				DEVELOPMENT_TEAM = N8VX7T6P4D;
 				INFOPLIST_FILE = "ITMO X widget/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -578,7 +578,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.voronov.ITMO-X.ITMO-X-widget";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.voronov.ITMO-X1.ITMO-X-widget";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
